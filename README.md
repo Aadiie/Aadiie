@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Dhamala 👋
 
-Final-year Computer Science student specializing in Data Science at VIT Vellore.
+Final year Computer Science student specializing in Data Science at VIT Vellore.
 
 I’m interested in:
 - Artificial Intelligence & Machine Learning

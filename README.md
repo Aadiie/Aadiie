@@ -10,11 +10,16 @@ I’m interested in:
 
 ## Technologies & Tools
 - Python
-- SQL
 - HTML/CSS
+- Bootstrap
+- Javascript
+- React Js
+- FastAPI 
+- PostgreSQL
 - Django
 - Scikit-learn
 - Git & GitHub
+- Machine Learning Algorithms
 
 ## Featured Projects
 - Parkinson Disease Detection using Machine Learning
